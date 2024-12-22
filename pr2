@@ -1,14 +1,14 @@
-hello = "Hello World"
+a = "Hello World"
 name = "Diana"
 lastname = "Raychuk"
 age = 16
 
-print(hello)
+print(a)
 print(name)
 print(lastname)
 print(age)
 
-print(type(hello))
+print(type(a))
 print(type(name))
 print(type(lastname))
 print(type(age))
